@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 product:
- name: "Wealth Tracker"
+ name: "Wealth Tracker Dev"
  version: "1.0"
  subProduct:
   - "Investment Tracker"
