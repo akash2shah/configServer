@@ -1,0 +1,12 @@
+build:
+ version: "1.0"
+ 
+product:
+ name: "Wealth Tracker"
+ version: "1.0"
+ subProduct:
+  - "Investment Tracker"
+  - "Expense Tracker"
+ info:
+  developedBy: "abc"
+  developedOn: "2026"
